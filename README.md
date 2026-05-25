@@ -21,5 +21,5 @@ Current Architecture: https://lucid.app/lucidchart/ba846edb-58b3-434c-b591-c7a79
 | Bharadwaaja K | TBD | bharadwaajak | KBdeGaulle1803 |
 | Niharika Trivedi | TBD | | |
 | Kanwar | TBD | bilstic_knight | |
-| Mridula SSV | TBD | mri | |
+| Mridula SSV | TBD | mri4587 | ssvm2005 |
 | Baliraja Nemade | TBD | | |
