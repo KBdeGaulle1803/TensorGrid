@@ -8,12 +8,18 @@ Our TPU comprises of a MAC array of parametrizable tile size, which can be confi
 
 We plan to design our arithmetic units to switch between various datatypes- namely FP32, BF16, and INT32. This enables accuracy-aware inference, so that stages less critical for accuracy can utilize integer arithmetic for improved efficiency.
 
+We plan to take our design through all stages of a tapeout - RTL, verification, GDS, tapeout, using open source tools for digital IC tapeout like verilator, openlane, etc. We plan to utlilze the GF180 node as our technology, as it's the standard for the competition.
+
 Detailed specifications (will be updated as the project progresses): https://docs.google.com/document/d/1Bf-AeR-BTfjls6UAFFtR-kkuU665zslCVYjlpTkNTXs/edit?usp=drivesdk
 
 Current Architecture: https://lucid.app/lucidchart/ba846edb-58b3-434c-b591-c7a798755b65/edit?viewport_loc=-1973%2C-327%2C5083%2C2793%2C0_0&invitationId=inv_b51fb640-8af1-4202-b410-1ec97dde80b9
 
 # Team Members:
 
-| Name | Role | Email | GitHub |
+| Name | Role | Discord ID | GitHub ID |
 |---|---|---|---|
-| TBD | TBD | TBD | TBD |
+| Bharadwaaja K | TBD | bharadwaajak | KBdeGaulle1803 |
+| Niharika Trivedi | TBD | | |
+| Kanwar | TBD | bilstic_knight | |
+| Mridula SSV | TBD | mri | |
+| Baliraja Nemade | TBD | | |
