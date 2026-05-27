@@ -15,11 +15,10 @@ Detailed specifications (will be updated as the project progresses): https://doc
 Current Architecture: https://lucid.app/lucidchart/ba846edb-58b3-434c-b591-c7a798755b65/edit?viewport_loc=-1973%2C-327%2C5083%2C2793%2C0_0&invitationId=inv_b51fb640-8af1-4202-b410-1ec97dde80b9
 
 # Team Members:
-
 | Name | Role | Discord ID | GitHub ID |
 |---|---|---|---|
 | Bharadwaaja K | TBD | bharadwaajak | KBdeGaulle1803 |
 | Niharika Trivedi | TBD | Niharika Trivedi | ntrivedi07 |
-| Kanwar | TBD | bilstic_knight | Kanwarpartap-Pannu |
+| Kanwar Partap Pannu | TBD | bilstic_knight | Kanwarpartap-Pannu |
 | Mridula SSV | TBD | mri4587 | ssvm2005 |
 | Baliraja Nemade | TBD | Baliraja | Baliraja |
