@@ -1,6 +1,6 @@
 module spi_controller #(
     parameter SPI_MODE = 0,
-    parameter CLKS_PER_HALF = 2; 
+    parameter CLKS_PER_HALF = 2
     
 )(
     // Control Signals
@@ -61,15 +61,14 @@ always_ff @(posedge clk or negedge rst) begin
 
     end 
     else begin 
-
+        // Default Assignments 
+        trailing_edge <= 0; 
+        leading_edge <= 0;  
+        
         if (tx_dv) begin 
             tx_ready <= 0; 
             spi_clk_edges <= 16; // 16 edges for byte 
         end
-
-        // Default Assignments 
-        trailing_edge <= 0; 
-        leading_edge <= 0; 
 
         else if (spi_clk_edges>0) begin 
             tx_ready <= 0; 
