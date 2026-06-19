@@ -43,7 +43,7 @@ Vspi_tb__Syms::Vspi_tb__Syms(VerilatedContext* contextp, const char* namep, Vspi
     , TOP{this, namep}
 {
     // Check resources
-    Verilated::stackCheck(177);
+    Verilated::stackCheck(240);
     // Configure time unit / time precision
     _vm_contextp__->timeunit(-12);
     _vm_contextp__->timeprecision(-12);
