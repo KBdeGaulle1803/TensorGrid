@@ -1,3 +1,5 @@
+# Instructions for testing the adder and the multiplier
+
 For running the testbench, firstly, run the associated python script to get a reference hex file with the inputs and golden outputs. Then modify the golden output file present in the sv testbench and run the code.
 
 For multiplier:
