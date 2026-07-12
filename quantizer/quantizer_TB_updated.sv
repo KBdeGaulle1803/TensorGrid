@@ -430,7 +430,6 @@ module quantizer_TB;
         @(posedge clk) begin i_data <= 23'sd256; i_scale <= 32'h3F800000; i_zero_point <= 8'd0; end // case 96: dtype 7 positive saturation, expected 255, overflow
         @(posedge clk) begin i_data <= -23'sd1; i_scale <= 32'h3F800000; i_zero_point <= 8'd0; end // case 97: dtype 7 negative saturation, expected 0, overflow
 
-
         @(posedge clk); i_data <= 23'sd0; i_scale <= 32'd0; i_zero_point <= 8'd0; i_target_dtype <= 3'd0;
 
         repeat (3) @(posedge clk);
